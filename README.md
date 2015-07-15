@@ -1,1 +1,2 @@
 # hirorepo
+*test
